@@ -1,0 +1,2103 @@
+{
+    "Avon and Somerset Constabulary": {
+        "Mar 2011": {
+            "General fund": "£6.7m",
+            "Earmarked reserves": "£25.6m",
+            "Total resource reserves": "£32.2m",
+            "Capital reserves": "£2.1m"
+        },
+        "Mar 2012": {
+            "General fund": "£7.5m",
+            "Earmarked reserves": "£29.6m",
+            "Total resource reserves": "£37.1m",
+            "Capital reserves": "£2.4m"
+        },
+        "Mar 2013": {
+            "General fund": "£13.6m",
+            "Earmarked reserves": "£28.7m",
+            "Total resource reserves": "£42.2m",
+            "Capital reserves": "£1.9m"
+        },
+        "Mar 2014": {
+            "General fund": "£14.4m",
+            "Earmarked reserves": "£31.3m",
+            "Total resource reserves": "£45.7m",
+            "Capital reserves": "£4.1m"
+        },
+        "Mar 2015": {
+            "General fund": "£14.4m",
+            "Earmarked reserves": "£28.8m",
+            "Total resource reserves": "£43.2m",
+            "Capital reserves": "£17.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£10.4m",
+            "Earmarked reserves": "£29.3m",
+            "Total resource reserves": "£39.7m",
+            "Capital reserves": "£11.6m"
+        },
+        "Mar 2017": {
+            "General fund": "£10.4m",
+            "Earmarked reserves": "£26.7m",
+            "Total resource reserves": "£37.1m",
+            "Capital reserves": "£7.1m"
+        },
+        "Mar 2018": {
+            "General fund": "£10.4m",
+            "Earmarked reserves": "£25.3m",
+            "Total resource reserves": "£35.7m",
+            "Capital reserves": "£0.3m"
+        }
+    },
+    "Bedfordshire Police": {
+        "Mar 2011": {
+            "General fund": "£2.9m",
+            "Earmarked reserves": "£6.5m",
+            "Total resource reserves": "£9.4m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2012": {
+            "General fund": "£2.9m",
+            "Earmarked reserves": "£6.6m",
+            "Total resource reserves": "£9.5m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2013": {
+            "General fund": "£3.4m",
+            "Earmarked reserves": "£9.6m",
+            "Total resource reserves": "£13.0m",
+            "Capital reserves": "£0.2m"
+        },
+        "Mar 2014": {
+            "General fund": "£4.3m",
+            "Earmarked reserves": "£13.7m",
+            "Total resource reserves": "£18.0m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£3.0m",
+            "Earmarked reserves": "£14.5m",
+            "Total resource reserves": "£17.5m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2016": {
+            "General fund": "£3.0m",
+            "Earmarked reserves": "£10.7m",
+            "Total resource reserves": "£13.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£3.0m",
+            "Earmarked reserves": "£10.2m",
+            "Total resource reserves": "£13.2m",
+            "Capital reserves": "£0.6m"
+        },
+        "Mar 2018": {
+            "General fund": "£3.0m",
+            "Earmarked reserves": "£6.5m",
+            "Total resource reserves": "£9.5m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "Cambridgeshire Constabulary": {
+        "Mar 2011": {
+            "General fund": "£4.8m",
+            "Earmarked reserves": "£13.3m",
+            "Total resource reserves": "£18.1m",
+            "Capital reserves": "£18.2m"
+        },
+        "Mar 2012": {
+            "General fund": "£7.0m",
+            "Earmarked reserves": "£19.1m",
+            "Total resource reserves": "£26.1m",
+            "Capital reserves": "£26.3m"
+        },
+        "Mar 2013": {
+            "General fund": "£9.2m",
+            "Earmarked reserves": "£12.3m",
+            "Total resource reserves": "£21.5m",
+            "Capital reserves": "£22.6m"
+        },
+        "Mar 2014": {
+            "General fund": "£9.2m",
+            "Earmarked reserves": "£16.5m",
+            "Total resource reserves": "£25.7m",
+            "Capital reserves": "£26.8m"
+        },
+        "Mar 2015": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£19.8m",
+            "Total resource reserves": "£27.0m",
+            "Capital reserves": "£0.7m"
+        },
+        "Mar 2016": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£19.4m",
+            "Total resource reserves": "£26.6m",
+            "Capital reserves": "£1.7m"
+        },
+        "Mar 2017": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£21.3m",
+            "Total resource reserves": "£28.5m",
+            "Capital reserves": "£1.2m"
+        },
+        "Mar 2018": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£15.3m",
+            "Total resource reserves": "£22.5m",
+            "Capital reserves": "£1.9m"
+        }
+    },
+    "Cheshire Constabulary": {
+        "Mar 2011": {
+            "General fund": "£7.8m",
+            "Earmarked reserves": "£10.3m",
+            "Total resource reserves": "£18.2m",
+            "Capital reserves": "£2.4m"
+        },
+        "Mar 2012": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£10.4m",
+            "Total resource reserves": "£15.6m",
+            "Capital reserves": "£4.4m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.3m",
+            "Earmarked reserves": "£8.4m",
+            "Total resource reserves": "£13.7m",
+            "Capital reserves": "£6.7m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.9m",
+            "Earmarked reserves": "£17.7m",
+            "Total resource reserves": "£23.6m",
+            "Capital reserves": "£7.6m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.9m",
+            "Earmarked reserves": "£22.4m",
+            "Total resource reserves": "£28.3m",
+            "Capital reserves": "£8.2m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.8m",
+            "Earmarked reserves": "£15.1m",
+            "Total resource reserves": "£20.9m",
+            "Capital reserves": "£7.1m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.8m",
+            "Earmarked reserves": "£8.5m",
+            "Total resource reserves": "£14.3m",
+            "Capital reserves": "£5.8m"
+        },
+        "Mar 2018": {
+            "General fund": "£6.3m",
+            "Earmarked reserves": "£5.0m",
+            "Total resource reserves": "£11.3m",
+            "Capital reserves": "£5.1m"
+        }
+    },
+    "Cleveland Police": {
+        "Mar 2011": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£6.0m",
+            "Total resource reserves": "£13.1m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2012": {
+            "General fund": "£8.2m",
+            "Earmarked reserves": "£6.0m",
+            "Total resource reserves": "£14.2m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2013": {
+            "General fund": "£7.4m",
+            "Earmarked reserves": "£3.4m",
+            "Total resource reserves": "£10.8m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2014": {
+            "General fund": "£7.0m",
+            "Earmarked reserves": "£7.2m",
+            "Total resource reserves": "£14.2m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2015": {
+            "General fund": "£8.8m",
+            "Earmarked reserves": "£5.8m",
+            "Total resource reserves": "£14.7m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2016": {
+            "General fund": "£8.6m",
+            "Earmarked reserves": "£6.6m",
+            "Total resource reserves": "£15.2m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2017": {
+            "General fund": "£8.0m",
+            "Earmarked reserves": "£6.4m",
+            "Total resource reserves": "£14.4m",
+            "Capital reserves": "£0.7m"
+        },
+        "Mar 2018": {
+            "General fund": "£6.1m",
+            "Earmarked reserves": "£7.2m",
+            "Total resource reserves": "£13.3m",
+            "Capital reserves": "£1.0m"
+        }
+    },
+    "Cumbria Constabulary": {
+        "Mar 2011": {
+            "General fund": "£5.1m",
+            "Earmarked reserves": "£16.8m",
+            "Total resource reserves": "£22.0m",
+            "Capital reserves": "£3.3m"
+        },
+        "Mar 2012": {
+            "General fund": "£5.1m",
+            "Earmarked reserves": "£18.9m",
+            "Total resource reserves": "£24.1m",
+            "Capital reserves": "£3.3m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.1m",
+            "Earmarked reserves": "£21.6m",
+            "Total resource reserves": "£26.7m",
+            "Capital reserves": "£5.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.1m",
+            "Earmarked reserves": "£27.7m",
+            "Total resource reserves": "£32.9m",
+            "Capital reserves": "£4.9m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.1m",
+            "Earmarked reserves": "£22.4m",
+            "Total resource reserves": "£27.5m",
+            "Capital reserves": "£4.7m"
+        },
+        "Mar 2016": {
+            "General fund": "£3.0m",
+            "Earmarked reserves": "£20.9m",
+            "Total resource reserves": "£23.9m",
+            "Capital reserves": "£6.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£3.0m",
+            "Earmarked reserves": "£21.3m",
+            "Total resource reserves": "£24.3m",
+            "Capital reserves": "£6.3m"
+        },
+        "Mar 2018": {
+            "General fund": "£3.0m",
+            "Earmarked reserves": "£19.9m",
+            "Total resource reserves": "£22.9m",
+            "Capital reserves": "£7.2m"
+        }
+    },
+    "Derbyshire Constabulary": {
+        "Mar 2011": {
+            "General fund": "£3.3m",
+            "Earmarked reserves": "£31.7m",
+            "Total resource reserves": "£35.0m",
+            "Capital reserves": "£6.2m"
+        },
+        "Mar 2012": {
+            "General fund": "£3.3m",
+            "Earmarked reserves": "£36.9m",
+            "Total resource reserves": "£40.2m",
+            "Capital reserves": "£6.5m"
+        },
+        "Mar 2013": {
+            "General fund": "£3.3m",
+            "Earmarked reserves": "£39.8m",
+            "Total resource reserves": "£43.1m",
+            "Capital reserves": "£7.3m"
+        },
+        "Mar 2014": {
+            "General fund": "£3.3m",
+            "Earmarked reserves": "£39.7m",
+            "Total resource reserves": "£43.0m",
+            "Capital reserves": "£8.7m"
+        },
+        "Mar 2015": {
+            "General fund": "£3.3m",
+            "Earmarked reserves": "£39.3m",
+            "Total resource reserves": "£42.6m",
+            "Capital reserves": "£9.8m"
+        },
+        "Mar 2016": {
+            "General fund": "£4.0m",
+            "Earmarked reserves": "£35.5m",
+            "Total resource reserves": "£39.5m",
+            "Capital reserves": "£9.3m"
+        },
+        "Mar 2017": {
+            "General fund": "£4.0m",
+            "Earmarked reserves": "£28.2m",
+            "Total resource reserves": "£32.2m",
+            "Capital reserves": "£4.8m"
+        },
+        "Mar 2018": {
+            "General fund": "£4.0m",
+            "Earmarked reserves": "£20.8m",
+            "Total resource reserves": "£24.8m",
+            "Capital reserves": "£4.8m"
+        }
+    },
+    "Devon & Cornwall Police": {
+        "Mar 2011": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£22.3m",
+            "Total resource reserves": "£28.5m",
+            "Capital reserves": "£6.2m"
+        },
+        "Mar 2012": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£32.1m",
+            "Total resource reserves": "£38.3m",
+            "Capital reserves": "£6.6m"
+        },
+        "Mar 2013": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£43.8m",
+            "Total resource reserves": "£50.0m",
+            "Capital reserves": "£6.9m"
+        },
+        "Mar 2014": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£55.2m",
+            "Total resource reserves": "£61.4m",
+            "Capital reserves": "£4.8m"
+        },
+        "Mar 2015": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£59.1m",
+            "Total resource reserves": "£65.3m",
+            "Capital reserves": "£4.8m"
+        },
+        "Mar 2016": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£57.5m",
+            "Total resource reserves": "£63.7m",
+            "Capital reserves": "£4.7m"
+        },
+        "Mar 2017": {
+            "General fund": "£11.9m",
+            "Earmarked reserves": "£46.9m",
+            "Total resource reserves": "£58.8m",
+            "Capital reserves": "£6.1m"
+        },
+        "Mar 2018": {
+            "General fund": "£11.7m",
+            "Earmarked reserves": "£38.4m",
+            "Total resource reserves": "£50.0m",
+            "Capital reserves": "£3.8m"
+        }
+    },
+    "Dorset Police": {
+        "Mar 2011": {
+            "General fund": "£3.3m",
+            "Earmarked reserves": "£14.4m",
+            "Total resource reserves": "£17.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£4.0m",
+            "Earmarked reserves": "£14.0m",
+            "Total resource reserves": "£18.0m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2013": {
+            "General fund": "£4.6m",
+            "Earmarked reserves": "£5.1m",
+            "Total resource reserves": "£9.8m",
+            "Capital reserves": "£0.6m"
+        },
+        "Mar 2014": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£8.0m",
+            "Total resource reserves": "£12.5m",
+            "Capital reserves": "£2.2m"
+        },
+        "Mar 2015": {
+            "General fund": "£3.8m",
+            "Earmarked reserves": "£8.6m",
+            "Total resource reserves": "£12.5m",
+            "Capital reserves": "£4.8m"
+        },
+        "Mar 2016": {
+            "General fund": "£7.3m",
+            "Earmarked reserves": "£5.7m",
+            "Total resource reserves": "£13.0m",
+            "Capital reserves": "£3.9m"
+        },
+        "Mar 2017": {
+            "General fund": "£7.4m",
+            "Earmarked reserves": "£5.7m",
+            "Total resource reserves": "£13.1m",
+            "Capital reserves": "£3.9m"
+        },
+        "Mar 2018": {
+            "General fund": "£5.0m",
+            "Earmarked reserves": "£3.8m",
+            "Total resource reserves": "£8.8m",
+            "Capital reserves": "£1.2m"
+        }
+    },
+    "Durham Constabulary": {
+        "Mar 2011": {
+            "General fund": "£6.1m",
+            "Earmarked reserves": "£9.5m",
+            "Total resource reserves": "£15.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£6.1m",
+            "Earmarked reserves": "£11.3m",
+            "Total resource reserves": "£17.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.9m",
+            "Earmarked reserves": "£12.9m",
+            "Total resource reserves": "£18.8m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.9m",
+            "Earmarked reserves": "£15.0m",
+            "Total resource reserves": "£20.9m",
+            "Capital reserves": "£0.2m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£11.2m",
+            "Total resource reserves": "£16.8m",
+            "Capital reserves": "£1.3m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£7.1m",
+            "Total resource reserves": "£12.7m",
+            "Capital reserves": "£0.8m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£7.3m",
+            "Total resource reserves": "£13.0m",
+            "Capital reserves": "£5.3m"
+        },
+        "Mar 2018": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£3.1m",
+            "Total resource reserves": "£8.7m",
+            "Capital reserves": "£9.4m"
+        }
+    },
+    "Dyfed-Powys Police": {
+        "Mar 2011": {
+            "General fund": "£2.8m",
+            "Earmarked reserves": "£23.9m",
+            "Total resource reserves": "£26.7m",
+            "Capital reserves": "£1.4m"
+        },
+        "Mar 2012": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£26.5m",
+            "Total resource reserves": "£31.0m",
+            "Capital reserves": "£1.3m"
+        },
+        "Mar 2013": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£31.5m",
+            "Total resource reserves": "£36.0m",
+            "Capital reserves": "£1.3m"
+        },
+        "Mar 2014": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£37.6m",
+            "Total resource reserves": "£42.1m",
+            "Capital reserves": "£1.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£40.4m",
+            "Total resource reserves": "£44.9m",
+            "Capital reserves": "£0.6m"
+        },
+        "Mar 2016": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£27.9m",
+            "Total resource reserves": "£32.4m",
+            "Capital reserves": "£0.5m"
+        },
+        "Mar 2017": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£21.9m",
+            "Total resource reserves": "£26.4m",
+            "Capital reserves": "£0.9m"
+        },
+        "Mar 2018": {
+            "General fund": "£4.0m",
+            "Earmarked reserves": "£15.7m",
+            "Total resource reserves": "£19.7m",
+            "Capital reserves": "£0.8m"
+        }
+    },
+    "Essex Police": {
+        "Mar 2011": {
+            "General fund": "£27.4m",
+            "Earmarked reserves": "£4.7m",
+            "Total resource reserves": "£32.1m",
+            "Capital reserves": "£15.4m"
+        },
+        "Mar 2012": {
+            "General fund": "£23.0m",
+            "Earmarked reserves": "£3.7m",
+            "Total resource reserves": "£26.7m",
+            "Capital reserves": "£16.6m"
+        },
+        "Mar 2013": {
+            "General fund": "£19.1m",
+            "Earmarked reserves": "£2.6m",
+            "Total resource reserves": "£21.7m",
+            "Capital reserves": "£14.5m"
+        },
+        "Mar 2014": {
+            "General fund": "£18.0m",
+            "Earmarked reserves": "£7.4m",
+            "Total resource reserves": "£25.5m",
+            "Capital reserves": "£12.1m"
+        },
+        "Mar 2015": {
+            "General fund": "£15.2m",
+            "Earmarked reserves": "£5.5m",
+            "Total resource reserves": "£20.7m",
+            "Capital reserves": "£10.3m"
+        },
+        "Mar 2016": {
+            "General fund": "£13.2m",
+            "Earmarked reserves": "£3.5m",
+            "Total resource reserves": "£16.7m",
+            "Capital reserves": "£4.1m"
+        },
+        "Mar 2017": {
+            "General fund": "£13.2m",
+            "Earmarked reserves": "£9.1m",
+            "Total resource reserves": "£22.2m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£12.2m",
+            "Earmarked reserves": "£7.8m",
+            "Total resource reserves": "£20.0m",
+            "Capital reserves": "£1.9m"
+        }
+    },
+    "Gloucestershire Constabulary": {
+        "Mar 2011": {
+            "General fund": "£3.2m",
+            "Earmarked reserves": "£18.7m",
+            "Total resource reserves": "£21.9m",
+            "Capital reserves": "£1.8m"
+        },
+        "Mar 2012": {
+            "General fund": "£3.2m",
+            "Earmarked reserves": "£22.4m",
+            "Total resource reserves": "£25.6m",
+            "Capital reserves": "£3.6m"
+        },
+        "Mar 2013": {
+            "General fund": "£3.2m",
+            "Earmarked reserves": "£27.4m",
+            "Total resource reserves": "£30.6m",
+            "Capital reserves": "£4.5m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.1m",
+            "Earmarked reserves": "£27.7m",
+            "Total resource reserves": "£32.8m",
+            "Capital reserves": "£1.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£6.1m",
+            "Earmarked reserves": "£24.2m",
+            "Total resource reserves": "£30.3m",
+            "Capital reserves": "£2.2m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.3m",
+            "Earmarked reserves": "£23.5m",
+            "Total resource reserves": "£28.8m",
+            "Capital reserves": "£1.4m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.4m",
+            "Earmarked reserves": "£20.9m",
+            "Total resource reserves": "£26.3m",
+            "Capital reserves": "£4.4m"
+        },
+        "Mar 2018": {
+            "General fund": "£5.6m",
+            "Earmarked reserves": "£16.1m",
+            "Total resource reserves": "£21.7m",
+            "Capital reserves": "£3.5m"
+        }
+    },
+    "Greater Manchester Police": {
+        "Mar 2011": {
+            "General fund": "£32.6m",
+            "Earmarked reserves": "£17.7m",
+            "Total resource reserves": "£50.3m",
+            "Capital reserves": "£2.1m"
+        },
+        "Mar 2012": {
+            "General fund": "£38.3m",
+            "Earmarked reserves": "£15.6m",
+            "Total resource reserves": "£53.9m",
+            "Capital reserves": "£1.3m"
+        },
+        "Mar 2013": {
+            "General fund": "£38.5m",
+            "Earmarked reserves": "£16.3m",
+            "Total resource reserves": "£54.8m",
+            "Capital reserves": "£2.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£12.5m",
+            "Earmarked reserves": "£54.6m",
+            "Total resource reserves": "£67.1m",
+            "Capital reserves": "£2.9m"
+        },
+        "Mar 2015": {
+            "General fund": "£12.5m",
+            "Earmarked reserves": "£59.3m",
+            "Total resource reserves": "£71.8m",
+            "Capital reserves": "£6.5m"
+        },
+        "Mar 2016": {
+            "General fund": "£13.1m",
+            "Earmarked reserves": "£54.3m",
+            "Total resource reserves": "£67.5m",
+            "Capital reserves": "£3.1m"
+        },
+        "Mar 2017": {
+            "General fund": "£13.2m",
+            "Earmarked reserves": "£66.5m",
+            "Total resource reserves": "£79.8m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£13.9m",
+            "Earmarked reserves": "£61.7m",
+            "Total resource reserves": "£75.6m",
+            "Capital reserves": "£26.7m"
+        }
+    },
+    "Gwent Police": {
+        "Mar 2011": {
+            "General fund": "£5.5m",
+            "Earmarked reserves": "£34.7m",
+            "Total resource reserves": "£40.1m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£8.9m",
+            "Earmarked reserves": "£31.1m",
+            "Total resource reserves": "£40.0m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£8.5m",
+            "Earmarked reserves": "£30.8m",
+            "Total resource reserves": "£39.3m",
+            "Capital reserves": "£1.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£10.8m",
+            "Earmarked reserves": "£30.2m",
+            "Total resource reserves": "£41.0m",
+            "Capital reserves": "£1.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£4.0m",
+            "Earmarked reserves": "£40.9m",
+            "Total resource reserves": "£44.9m",
+            "Capital reserves": "£2.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£9.1m",
+            "Earmarked reserves": "£38.9m",
+            "Total resource reserves": "£48.0m",
+            "Capital reserves": "£1.6m"
+        },
+        "Mar 2017": {
+            "General fund": "£10.9m",
+            "Earmarked reserves": "£40.3m",
+            "Total resource reserves": "£51.2m",
+            "Capital reserves": "£1.6m"
+        },
+        "Mar 2018": {
+            "General fund": "£14.7m",
+            "Earmarked reserves": "£41.3m",
+            "Total resource reserves": "£56.0m",
+            "Capital reserves": "£1.7m"
+        }
+    },
+    "Hampshire Constabulary": {
+        "Mar 2011": {
+            "General fund": "£29.5m",
+            "Earmarked reserves": "£7.8m",
+            "Total resource reserves": "£37.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£38.1m",
+            "Total resource reserves": "£50.1m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£14.3m",
+            "Earmarked reserves": "£47.6m",
+            "Total resource reserves": "£61.9m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£16.0m",
+            "Earmarked reserves": "£57.5m",
+            "Total resource reserves": "£73.4m",
+            "Capital reserves": "£1.1m"
+        },
+        "Mar 2015": {
+            "General fund": "£18.7m",
+            "Earmarked reserves": "£65.6m",
+            "Total resource reserves": "£84.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£17.5m",
+            "Earmarked reserves": "£69.5m",
+            "Total resource reserves": "£87.0m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£10.0m",
+            "Earmarked reserves": "£75.7m",
+            "Total resource reserves": "£85.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£10.9m",
+            "Earmarked reserves": "£65.0m",
+            "Total resource reserves": "£75.9m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "Hertfordshire Constabulary": {
+        "Mar 2011": {
+            "General fund": "£6.1m",
+            "Earmarked reserves": "£13.3m",
+            "Total resource reserves": "£19.4m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£6.8m",
+            "Earmarked reserves": "£18.1m",
+            "Total resource reserves": "£24.9m",
+            "Capital reserves": "£3.1m"
+        },
+        "Mar 2013": {
+            "General fund": "£6.8m",
+            "Earmarked reserves": "£21.2m",
+            "Total resource reserves": "£28.0m",
+            "Capital reserves": "£20.3m"
+        },
+        "Mar 2014": {
+            "General fund": "£4.9m",
+            "Earmarked reserves": "£31.7m",
+            "Total resource reserves": "£36.7m",
+            "Capital reserves": "£16.8m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.5m",
+            "Earmarked reserves": "£42.5m",
+            "Total resource reserves": "£47.9m",
+            "Capital reserves": "£16.6m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.3m",
+            "Earmarked reserves": "£42.5m",
+            "Total resource reserves": "£47.8m",
+            "Capital reserves": "£14.5m"
+        },
+        "Mar 2017": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£36.7m",
+            "Total resource reserves": "£42.7m",
+            "Capital reserves": "£11.3m"
+        },
+        "Mar 2018": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£28.0m",
+            "Total resource reserves": "£34.0m",
+            "Capital reserves": "£7.1m"
+        }
+    },
+    "Humberside Police": {
+        "Mar 2011": {
+            "General fund": "£5.4m",
+            "Earmarked reserves": "£28.4m",
+            "Total resource reserves": "£33.9m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£29.3m",
+            "Total resource reserves": "£34.5m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.4m",
+            "Earmarked reserves": "£27.6m",
+            "Total resource reserves": "£33.0m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.4m",
+            "Earmarked reserves": "£31.6m",
+            "Total resource reserves": "£37.0m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£28.2m",
+            "Total resource reserves": "£33.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£28.2m",
+            "Total resource reserves": "£33.4m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£29.1m",
+            "Total resource reserves": "£34.3m",
+            "Capital reserves": "£0.5m"
+        },
+        "Mar 2018": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£23.7m",
+            "Total resource reserves": "£28.9m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "Kent Police": {
+        "Mar 2011": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£14.6m",
+            "Total resource reserves": "£20.6m",
+            "Capital reserves": "£13.5m"
+        },
+        "Mar 2012": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£16.9m",
+            "Total resource reserves": "£22.9m",
+            "Capital reserves": "£18.4m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.6m",
+            "Earmarked reserves": "£24.3m",
+            "Total resource reserves": "£30.0m",
+            "Capital reserves": "£23.6m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.6m",
+            "Earmarked reserves": "£25.5m",
+            "Total resource reserves": "£31.2m",
+            "Capital reserves": "£30.3m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.6m",
+            "Earmarked reserves": "£28.7m",
+            "Total resource reserves": "£34.4m",
+            "Capital reserves": "£25.8m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.6m",
+            "Earmarked reserves": "£25.3m",
+            "Total resource reserves": "£30.9m",
+            "Capital reserves": "£31.6m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.6m",
+            "Earmarked reserves": "£27.2m",
+            "Total resource reserves": "£32.8m",
+            "Capital reserves": "£28.7m"
+        },
+        "Mar 2018": {
+            "General fund": "£8.8m",
+            "Earmarked reserves": "£19.3m",
+            "Total resource reserves": "£28.1m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "Lancashire Constabulary": {
+        "Mar 2011": {
+            "General fund": "£6.9m",
+            "Earmarked reserves": "£13.2m",
+            "Total resource reserves": "£20.1m",
+            "Capital reserves": "£1.1m"
+        },
+        "Mar 2012": {
+            "General fund": "£9.0m",
+            "Earmarked reserves": "£17.4m",
+            "Total resource reserves": "£26.3m",
+            "Capital reserves": "£3.1m"
+        },
+        "Mar 2013": {
+            "General fund": "£9.9m",
+            "Earmarked reserves": "£17.6m",
+            "Total resource reserves": "£27.5m",
+            "Capital reserves": "£5.2m"
+        },
+        "Mar 2014": {
+            "General fund": "£9.9m",
+            "Earmarked reserves": "£25.9m",
+            "Total resource reserves": "£35.8m",
+            "Capital reserves": "£6.9m"
+        },
+        "Mar 2015": {
+            "General fund": "£9.9m",
+            "Earmarked reserves": "£39.4m",
+            "Total resource reserves": "£49.3m",
+            "Capital reserves": "£5.1m"
+        },
+        "Mar 2016": {
+            "General fund": "£9.9m",
+            "Earmarked reserves": "£32.7m",
+            "Total resource reserves": "£42.5m",
+            "Capital reserves": "£5.9m"
+        },
+        "Mar 2017": {
+            "General fund": "£9.9m",
+            "Earmarked reserves": "£36.9m",
+            "Total resource reserves": "£46.7m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2018": {
+            "General fund": "£9.3m",
+            "Earmarked reserves": "£28.7m",
+            "Total resource reserves": "£37.9m",
+            "Capital reserves": "£1.0m"
+        }
+    },
+    "Leicestershire Police": {
+        "Mar 2011": {
+            "General fund": "£5.3m",
+            "Earmarked reserves": "£18.5m",
+            "Total resource reserves": "£23.8m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£5.3m",
+            "Earmarked reserves": "£23.2m",
+            "Total resource reserves": "£28.5m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.3m",
+            "Earmarked reserves": "£22.9m",
+            "Total resource reserves": "£28.2m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£21.6m",
+            "Total resource reserves": "£27.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£22.7m",
+            "Total resource reserves": "£28.7m",
+            "Capital reserves": "£0.2m"
+        },
+        "Mar 2016": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£22.3m",
+            "Total resource reserves": "£28.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£23.8m",
+            "Total resource reserves": "£29.8m",
+            "Capital reserves": "£0.6m"
+        },
+        "Mar 2018": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£21.6m",
+            "Total resource reserves": "£27.6m",
+            "Capital reserves": "£0.5m"
+        }
+    },
+    "Lincolnshire Police": {
+        "Mar 2011": {
+            "General fund": "£5.1m",
+            "Earmarked reserves": "£5.5m",
+            "Total resource reserves": "£10.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£5.8m",
+            "Total resource reserves": "£11.4m",
+            "Capital reserves": "£0.5m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£8.2m",
+            "Total resource reserves": "£13.9m",
+            "Capital reserves": "£0.2m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£9.1m",
+            "Total resource reserves": "£14.8m",
+            "Capital reserves": "£0.8m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.9m",
+            "Earmarked reserves": "£11.1m",
+            "Total resource reserves": "£17.0m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£12.8m",
+            "Total resource reserves": "£18.5m",
+            "Capital reserves": "£0.5m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£13.1m",
+            "Total resource reserves": "£18.7m",
+            "Capital reserves": "£0.9m"
+        },
+        "Mar 2018": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£11.0m",
+            "Total resource reserves": "£16.6m",
+            "Capital reserves": "£0.6m"
+        }
+    },
+    "Merseyside Police": {
+        "Mar 2011": {
+            "General fund": "£9.3m",
+            "Earmarked reserves": "£20.9m",
+            "Total resource reserves": "£30.2m",
+            "Capital reserves": "£2.1m"
+        },
+        "Mar 2012": {
+            "General fund": "£9.2m",
+            "Earmarked reserves": "£28.8m",
+            "Total resource reserves": "£38.0m",
+            "Capital reserves": "£0.6m"
+        },
+        "Mar 2013": {
+            "General fund": "£9.5m",
+            "Earmarked reserves": "£31.1m",
+            "Total resource reserves": "£40.5m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£9.6m",
+            "Earmarked reserves": "£38.6m",
+            "Total resource reserves": "£48.2m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£10.5m",
+            "Earmarked reserves": "£31.2m",
+            "Total resource reserves": "£41.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£12.2m",
+            "Earmarked reserves": "£24.3m",
+            "Total resource reserves": "£36.5m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£12.2m",
+            "Earmarked reserves": "£17.1m",
+            "Total resource reserves": "£29.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£12.2m",
+            "Earmarked reserves": "£18.8m",
+            "Total resource reserves": "£31.0m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "MOPAC": {},
+    "Norfolk Constabulary": {
+        "Mar 2011": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£17.5m",
+            "Total resource reserves": "£21.9m",
+            "Capital reserves": "£4.8m"
+        },
+        "Mar 2012": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£25.7m",
+            "Total resource reserves": "£30.2m",
+            "Capital reserves": "£3.5m"
+        },
+        "Mar 2013": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£30.1m",
+            "Total resource reserves": "£34.6m",
+            "Capital reserves": "£1.6m"
+        },
+        "Mar 2014": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£32.4m",
+            "Total resource reserves": "£36.8m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2015": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£32.7m",
+            "Total resource reserves": "£37.2m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2016": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£24.5m",
+            "Total resource reserves": "£29.0m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£20.8m",
+            "Total resource reserves": "£25.3m",
+            "Capital reserves": "£0.5m"
+        },
+        "Mar 2018": {
+            "General fund": "£4.5m",
+            "Earmarked reserves": "£13.9m",
+            "Total resource reserves": "£18.3m",
+            "Capital reserves": "£0.4m"
+        }
+    },
+    "North Wales Police": {
+        "Mar 2011": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£21.0m",
+            "Total resource reserves": "£28.2m",
+            "Capital reserves": "£5.1m"
+        },
+        "Mar 2012": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£29.0m",
+            "Total resource reserves": "£36.2m",
+            "Capital reserves": "£3.8m"
+        },
+        "Mar 2013": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£31.0m",
+            "Total resource reserves": "£38.2m",
+            "Capital reserves": "£4.1m"
+        },
+        "Mar 2014": {
+            "General fund": "£7.2m",
+            "Earmarked reserves": "£30.9m",
+            "Total resource reserves": "£38.1m",
+            "Capital reserves": "£3.2m"
+        },
+        "Mar 2015": {
+            "General fund": "£4.2m",
+            "Earmarked reserves": "£32.2m",
+            "Total resource reserves": "£36.4m",
+            "Capital reserves": "£4.6m"
+        },
+        "Mar 2016": {
+            "General fund": "£4.2m",
+            "Earmarked reserves": "£31.5m",
+            "Total resource reserves": "£35.7m",
+            "Capital reserves": "£3.5m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£29.3m",
+            "Total resource reserves": "£34.4m",
+            "Capital reserves": "£3.7m"
+        },
+        "Mar 2018": {
+            "General fund": "£5.2m",
+            "Earmarked reserves": "£19.2m",
+            "Total resource reserves": "£24.4m",
+            "Capital reserves": "£1.5m"
+        }
+    },
+    "North Yorkshire Police": {
+        "Mar 2011": {
+            "General fund": "£8.7m",
+            "Earmarked reserves": "£19.4m",
+            "Total resource reserves": "£28.1m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£8.8m",
+            "Earmarked reserves": "£20.1m",
+            "Total resource reserves": "£28.9m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£9.5m",
+            "Earmarked reserves": "£25.1m",
+            "Total resource reserves": "£34.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£9.7m",
+            "Earmarked reserves": "£33.9m",
+            "Total resource reserves": "£43.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£9.7m",
+            "Earmarked reserves": "£22.7m",
+            "Total resource reserves": "£32.4m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£9.7m",
+            "Earmarked reserves": "£17.8m",
+            "Total resource reserves": "£27.5m",
+            "Capital reserves": "£1.2m"
+        },
+        "Mar 2017": {
+            "General fund": "£9.7m",
+            "Earmarked reserves": "£6.5m",
+            "Total resource reserves": "£16.2m",
+            "Capital reserves": "£1.5m"
+        },
+        "Mar 2018": {
+            "General fund": "£6.8m",
+            "Earmarked reserves": "£4.1m",
+            "Total resource reserves": "£10.9m",
+            "Capital reserves": "£2.4m"
+        }
+    },
+    "Northamptonshire Police": {
+        "Mar 2011": {
+            "General fund": "£8.7m",
+            "Earmarked reserves": "£5.2m",
+            "Total resource reserves": "£13.9m",
+            "Capital reserves": "£8.9m"
+        },
+        "Mar 2012": {
+            "General fund": "£3.5m",
+            "Earmarked reserves": "£7.1m",
+            "Total resource reserves": "£10.7m",
+            "Capital reserves": "£11.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£4.1m",
+            "Earmarked reserves": "£11.1m",
+            "Total resource reserves": "£15.3m",
+            "Capital reserves": "£6.9m"
+        },
+        "Mar 2014": {
+            "General fund": "£4.1m",
+            "Earmarked reserves": "£14.1m",
+            "Total resource reserves": "£18.2m",
+            "Capital reserves": "£3.4m"
+        },
+        "Mar 2015": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£14.9m",
+            "Total resource reserves": "£20.9m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2016": {
+            "General fund": "£4.4m",
+            "Earmarked reserves": "£12.4m",
+            "Total resource reserves": "£16.8m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£3.5m",
+            "Earmarked reserves": "£6.8m",
+            "Total resource reserves": "£10.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£3.8m",
+            "Earmarked reserves": "£7.9m",
+            "Total resource reserves": "£11.7m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "Northumbria Police": {
+        "Mar 2011": {
+            "General fund": "£30.0m",
+            "Earmarked reserves": "£25.9m",
+            "Total resource reserves": "£55.8m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2012": {
+            "General fund": "£26.6m",
+            "Earmarked reserves": "£18.6m",
+            "Total resource reserves": "£45.2m",
+            "Capital reserves": "£0.5m"
+        },
+        "Mar 2013": {
+            "General fund": "£21.6m",
+            "Earmarked reserves": "£13.3m",
+            "Total resource reserves": "£34.9m",
+            "Capital reserves": "£0.2m"
+        },
+        "Mar 2014": {
+            "General fund": "£21.8m",
+            "Earmarked reserves": "£10.9m",
+            "Total resource reserves": "£32.7m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2015": {
+            "General fund": "£21.8m",
+            "Earmarked reserves": "£5.6m",
+            "Total resource reserves": "£27.4m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2016": {
+            "General fund": "£15.4m",
+            "Earmarked reserves": "£4.5m",
+            "Total resource reserves": "£19.9m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£11.9m",
+            "Earmarked reserves": "£5.1m",
+            "Total resource reserves": "£16.9m",
+            "Capital reserves": "£4.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£9.4m",
+            "Earmarked reserves": "£4.0m",
+            "Total resource reserves": "£13.5m",
+            "Capital reserves": "£0.3m"
+        }
+    },
+    "Nottinghamshire Police": {
+        "Mar 2011": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£9.2m",
+            "Total resource reserves": "£16.3m",
+            "Capital reserves": "£0.2m"
+        },
+        "Mar 2012": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£13.2m",
+            "Total resource reserves": "£20.2m",
+            "Capital reserves": "£1.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£18.3m",
+            "Total resource reserves": "£25.4m",
+            "Capital reserves": "£2.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£19.5m",
+            "Total resource reserves": "£26.6m",
+            "Capital reserves": "£1.7m"
+        },
+        "Mar 2015": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£16.2m",
+            "Total resource reserves": "£23.2m",
+            "Capital reserves": "£1.7m"
+        },
+        "Mar 2016": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£8.2m",
+            "Total resource reserves": "£15.3m",
+            "Capital reserves": "£0.9m"
+        },
+        "Mar 2017": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£11.8m",
+            "Total resource reserves": "£18.9m",
+            "Capital reserves": "£3.3m"
+        },
+        "Mar 2018": {
+            "General fund": "£7.1m",
+            "Earmarked reserves": "£16.9m",
+            "Total resource reserves": "£23.9m",
+            "Capital reserves": "£3.9m"
+        }
+    },
+    "South Wales Police": {
+        "Mar 2011": {
+            "General fund": "£5.7m",
+            "Earmarked reserves": "£30.9m",
+            "Total resource reserves": "£36.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£7.3m",
+            "Earmarked reserves": "£33.4m",
+            "Total resource reserves": "£40.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£8.2m",
+            "Earmarked reserves": "£33.6m",
+            "Total resource reserves": "£41.9m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£9.0m",
+            "Earmarked reserves": "£24.9m",
+            "Total resource reserves": "£33.9m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£9.0m",
+            "Earmarked reserves": "£24.2m",
+            "Total resource reserves": "£33.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£9.2m",
+            "Earmarked reserves": "£20.0m",
+            "Total resource reserves": "£29.2m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£9.4m",
+            "Earmarked reserves": "£21.6m",
+            "Total resource reserves": "£31.1m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£9.7m",
+            "Earmarked reserves": "£22.2m",
+            "Total resource reserves": "£31.9m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "South Yorkshire Police": {
+        "Mar 2011": {
+            "General fund": "£24.6m",
+            "Earmarked reserves": "£13.4m",
+            "Total resource reserves": "£38.0m",
+            "Capital reserves": "£2.6m"
+        },
+        "Mar 2012": {
+            "General fund": "£33.5m",
+            "Earmarked reserves": "£13.3m",
+            "Total resource reserves": "£46.8m",
+            "Capital reserves": "£1.6m"
+        },
+        "Mar 2013": {
+            "General fund": "£35.8m",
+            "Earmarked reserves": "£12.3m",
+            "Total resource reserves": "£48.1m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£13.8m",
+            "Earmarked reserves": "£33.8m",
+            "Total resource reserves": "£47.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£16.4m",
+            "Earmarked reserves": "£28.4m",
+            "Total resource reserves": "£44.8m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£17.6m",
+            "Earmarked reserves": "£22.7m",
+            "Total resource reserves": "£40.3m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£17.6m",
+            "Earmarked reserves": "£28.8m",
+            "Total resource reserves": "£46.4m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£12.3m",
+            "Earmarked reserves": "£32.5m",
+            "Total resource reserves": "£44.8m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "Staffordshire Police": {
+        "Mar 2011": {
+            "General fund": "£5.4m",
+            "Earmarked reserves": "£8.0m",
+            "Total resource reserves": "£13.4m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£5.4m",
+            "Earmarked reserves": "£9.4m",
+            "Total resource reserves": "£14.8m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£5.4m",
+            "Earmarked reserves": "£9.3m",
+            "Total resource reserves": "£14.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£6.3m",
+            "Earmarked reserves": "£13.9m",
+            "Total resource reserves": "£20.2m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£6.3m",
+            "Earmarked reserves": "£16.4m",
+            "Total resource reserves": "£22.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£6.3m",
+            "Earmarked reserves": "£10.8m",
+            "Total resource reserves": "£17.1m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.5m",
+            "Earmarked reserves": "£7.8m",
+            "Total resource reserves": "£13.3m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2018": {
+            "General fund": "£2.9m",
+            "Earmarked reserves": "£1.0m",
+            "Total resource reserves": "£3.9m",
+            "Capital reserves": "£0.3m"
+        }
+    },
+    "Suffolk Constabulary": {
+        "Mar 2011": {
+            "General fund": "£4.0m",
+            "Earmarked reserves": "£10.5m",
+            "Total resource reserves": "£14.5m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£5.8m",
+            "Earmarked reserves": "£11.4m",
+            "Total resource reserves": "£17.1m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2013": {
+            "General fund": "£8.2m",
+            "Earmarked reserves": "£9.5m",
+            "Total resource reserves": "£17.7m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2014": {
+            "General fund": "£5.0m",
+            "Earmarked reserves": "£12.5m",
+            "Total resource reserves": "£17.5m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2015": {
+            "General fund": "£5.0m",
+            "Earmarked reserves": "£11.2m",
+            "Total resource reserves": "£16.2m",
+            "Capital reserves": "£0.1m"
+        },
+        "Mar 2016": {
+            "General fund": "£5.0m",
+            "Earmarked reserves": "£7.4m",
+            "Total resource reserves": "£12.4m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£5.0m",
+            "Earmarked reserves": "£5.8m",
+            "Total resource reserves": "£10.8m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2018": {
+            "General fund": "£3.5m",
+            "Earmarked reserves": "£4.3m",
+            "Total resource reserves": "£7.8m",
+            "Capital reserves": "£0.2m"
+        }
+    },
+    "Surrey Police": {
+        "Mar 2011": {
+            "General fund": "£7.5m",
+            "Earmarked reserves": "£5.3m",
+            "Total resource reserves": "£12.8m",
+            "Capital reserves": "£0.3m"
+        },
+        "Mar 2012": {
+            "General fund": "£8.9m",
+            "Earmarked reserves": "£6.5m",
+            "Total resource reserves": "£15.4m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2013": {
+            "General fund": "£9.4m",
+            "Earmarked reserves": "£8.2m",
+            "Total resource reserves": "£17.6m",
+            "Capital reserves": "£2.6m"
+        },
+        "Mar 2014": {
+            "General fund": "£11.1m",
+            "Earmarked reserves": "£8.3m",
+            "Total resource reserves": "£19.5m",
+            "Capital reserves": "£11.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£12.9m",
+            "Earmarked reserves": "£10.3m",
+            "Total resource reserves": "£23.2m",
+            "Capital reserves": "£12.8m"
+        },
+        "Mar 2016": {
+            "General fund": "£11.5m",
+            "Earmarked reserves": "£7.1m",
+            "Total resource reserves": "£18.6m",
+            "Capital reserves": "£13.1m"
+        },
+        "Mar 2017": {
+            "General fund": "£8.7m",
+            "Earmarked reserves": "£6.4m",
+            "Total resource reserves": "£15.1m",
+            "Capital reserves": "£12.1m"
+        },
+        "Mar 2018": {
+            "General fund": "£6.1m",
+            "Earmarked reserves": "£6.9m",
+            "Total resource reserves": "£13.1m",
+            "Capital reserves": "£10.4m"
+        }
+    },
+    "Sussex Police": {
+        "Mar 2011": {
+            "General fund": "£10.2m",
+            "Earmarked reserves": "£41.5m",
+            "Total resource reserves": "£51.7m",
+            "Capital reserves": "£4.8m"
+        },
+        "Mar 2012": {
+            "General fund": "£13.9m",
+            "Earmarked reserves": "£54.4m",
+            "Total resource reserves": "£68.3m",
+            "Capital reserves": "£4.9m"
+        },
+        "Mar 2013": {
+            "General fund": "£12.2m",
+            "Earmarked reserves": "£63.5m",
+            "Total resource reserves": "£75.7m",
+            "Capital reserves": "£3.4m"
+        },
+        "Mar 2014": {
+            "General fund": "£9.8m",
+            "Earmarked reserves": "£63.5m",
+            "Total resource reserves": "£73.4m",
+            "Capital reserves": "£6.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£10.8m",
+            "Earmarked reserves": "£59.9m",
+            "Total resource reserves": "£70.7m",
+            "Capital reserves": "£7.9m"
+        },
+        "Mar 2016": {
+            "General fund": "£10.8m",
+            "Earmarked reserves": "£53.5m",
+            "Total resource reserves": "£64.3m",
+            "Capital reserves": "£8.9m"
+        },
+        "Mar 2017": {
+            "General fund": "£10.8m",
+            "Earmarked reserves": "£50.5m",
+            "Total resource reserves": "£61.3m",
+            "Capital reserves": "£1.9m"
+        },
+        "Mar 2018": {
+            "General fund": "£10.8m",
+            "Earmarked reserves": "£43.5m",
+            "Total resource reserves": "£54.3m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "Thames Valley Police": {
+        "Mar 2011": {
+            "General fund": "£18.4m",
+            "Earmarked reserves": "£22.9m",
+            "Total resource reserves": "£41.3m",
+            "Capital reserves": "£20.4m"
+        },
+        "Mar 2012": {
+            "General fund": "£14.3m",
+            "Earmarked reserves": "£33.9m",
+            "Total resource reserves": "£48.2m",
+            "Capital reserves": "£23.2m"
+        },
+        "Mar 2013": {
+            "General fund": "£15.3m",
+            "Earmarked reserves": "£30.5m",
+            "Total resource reserves": "£45.8m",
+            "Capital reserves": "£17.9m"
+        },
+        "Mar 2014": {
+            "General fund": "£16.5m",
+            "Earmarked reserves": "£32.7m",
+            "Total resource reserves": "£49.1m",
+            "Capital reserves": "£9.3m"
+        },
+        "Mar 2015": {
+            "General fund": "£17.6m",
+            "Earmarked reserves": "£33.8m",
+            "Total resource reserves": "£51.4m",
+            "Capital reserves": "£11.9m"
+        },
+        "Mar 2016": {
+            "General fund": "£18.4m",
+            "Earmarked reserves": "£32.3m",
+            "Total resource reserves": "£50.7m",
+            "Capital reserves": "£7.2m"
+        },
+        "Mar 2017": {
+            "General fund": "£18.1m",
+            "Earmarked reserves": "£34.7m",
+            "Total resource reserves": "£52.8m",
+            "Capital reserves": "£15.8m"
+        },
+        "Mar 2018": {
+            "General fund": "£18.6m",
+            "Earmarked reserves": "£26.0m",
+            "Total resource reserves": "£44.7m",
+            "Capital reserves": "£19.0m"
+        }
+    },
+    "Warwickshire Police": {
+        "Mar 2011": {
+            "General fund": "£2.0m",
+            "Earmarked reserves": "£18.4m",
+            "Total resource reserves": "£20.4m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£2.0m",
+            "Earmarked reserves": "£22.0m",
+            "Total resource reserves": "£24.0m",
+            "Capital reserves": "£1.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£2.0m",
+            "Earmarked reserves": "£28.3m",
+            "Total resource reserves": "£30.3m",
+            "Capital reserves": "£1.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£27.2m",
+            "Total resource reserves": "£33.2m",
+            "Capital reserves": "£1.8m"
+        },
+        "Mar 2015": {
+            "General fund": "£6.0m",
+            "Earmarked reserves": "£29.5m",
+            "Total resource reserves": "£35.5m",
+            "Capital reserves": "£2.8m"
+        },
+        "Mar 2016": {
+            "General fund": "£6.8m",
+            "Earmarked reserves": "£24.4m",
+            "Total resource reserves": "£31.2m",
+            "Capital reserves": "£2.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£6.8m",
+            "Earmarked reserves": "£19.2m",
+            "Total resource reserves": "£26.0m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2018": {
+            "General fund": "£5.0m",
+            "Earmarked reserves": "£14.2m",
+            "Total resource reserves": "£19.2m",
+            "Capital reserves": "£0.0m"
+        }
+    },
+    "West Mercia Police": {
+        "Mar 2011": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£25.9m",
+            "Total resource reserves": "£32.1m",
+            "Capital reserves": "£2.7m"
+        },
+        "Mar 2012": {
+            "General fund": "£6.2m",
+            "Earmarked reserves": "£31.6m",
+            "Total resource reserves": "£37.8m",
+            "Capital reserves": "£2.8m"
+        },
+        "Mar 2013": {
+            "General fund": "£8.9m",
+            "Earmarked reserves": "£37.2m",
+            "Total resource reserves": "£46.1m",
+            "Capital reserves": "£1.9m"
+        },
+        "Mar 2014": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£41.1m",
+            "Total resource reserves": "£53.1m",
+            "Capital reserves": "£4.4m"
+        },
+        "Mar 2015": {
+            "General fund": "£13.5m",
+            "Earmarked reserves": "£50.4m",
+            "Total resource reserves": "£63.9m",
+            "Capital reserves": "£7.9m"
+        },
+        "Mar 2016": {
+            "General fund": "£13.5m",
+            "Earmarked reserves": "£46.6m",
+            "Total resource reserves": "£60.1m",
+            "Capital reserves": "£5.6m"
+        },
+        "Mar 2017": {
+            "General fund": "£13.5m",
+            "Earmarked reserves": "£39.6m",
+            "Total resource reserves": "£53.1m",
+            "Capital reserves": "£0.4m"
+        },
+        "Mar 2018": {
+            "General fund": "£10.6m",
+            "Earmarked reserves": "£25.8m",
+            "Total resource reserves": "£36.4m",
+            "Capital reserves": "£0.1m"
+        }
+    },
+    "West Midlands Police": {
+        "Mar 2011": {
+            "General fund": "£8.0m",
+            "Earmarked reserves": "£71.1m",
+            "Total resource reserves": "£79.1m",
+            "Capital reserves": "£39.9m"
+        },
+        "Mar 2012": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£90.5m",
+            "Total resource reserves": "£102.5m",
+            "Capital reserves": "£37.1m"
+        },
+        "Mar 2013": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£113.7m",
+            "Total resource reserves": "£125.8m",
+            "Capital reserves": "£40.7m"
+        },
+        "Mar 2014": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£114.7m",
+            "Total resource reserves": "£126.7m",
+            "Capital reserves": "£38.6m"
+        },
+        "Mar 2015": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£141.7m",
+            "Total resource reserves": "£153.8m",
+            "Capital reserves": "£25.6m"
+        },
+        "Mar 2016": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£116.0m",
+            "Total resource reserves": "£128.0m",
+            "Capital reserves": "£14.6m"
+        },
+        "Mar 2017": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£94.0m",
+            "Total resource reserves": "£106.0m",
+            "Capital reserves": "£15.1m"
+        },
+        "Mar 2018": {
+            "General fund": "£12.0m",
+            "Earmarked reserves": "£73.3m",
+            "Total resource reserves": "£85.3m",
+            "Capital reserves": "£14.5m"
+        }
+    },
+    "West Yorkshire Police": {
+        "Mar 2011": {
+            "General fund": "£23.9m",
+            "Earmarked reserves": "£6.5m",
+            "Total resource reserves": "£30.4m",
+            "Capital reserves": "£1.3m"
+        },
+        "Mar 2012": {
+            "General fund": "£30.7m",
+            "Earmarked reserves": "£11.0m",
+            "Total resource reserves": "£41.6m",
+            "Capital reserves": "£1.2m"
+        },
+        "Mar 2013": {
+            "General fund": "£40.9m",
+            "Earmarked reserves": "£16.5m",
+            "Total resource reserves": "£57.5m",
+            "Capital reserves": "£1.3m"
+        },
+        "Mar 2014": {
+            "General fund": "£20.5m",
+            "Earmarked reserves": "£61.3m",
+            "Total resource reserves": "£81.8m",
+            "Capital reserves": "£5.5m"
+        },
+        "Mar 2015": {
+            "General fund": "£26.2m",
+            "Earmarked reserves": "£68.6m",
+            "Total resource reserves": "£94.8m",
+            "Capital reserves": "£7.4m"
+        },
+        "Mar 2016": {
+            "General fund": "£34.7m",
+            "Earmarked reserves": "£65.4m",
+            "Total resource reserves": "£100.1m",
+            "Capital reserves": "£8.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£29.3m",
+            "Earmarked reserves": "£61.8m",
+            "Total resource reserves": "£91.1m",
+            "Capital reserves": "£8.6m"
+        },
+        "Mar 2018": {
+            "General fund": "£15.4m",
+            "Earmarked reserves": "£57.3m",
+            "Total resource reserves": "£72.7m",
+            "Capital reserves": "£11.3m"
+        }
+    },
+    "Wiltshire Police": {
+        "Mar 2011": {
+            "General fund": "£7.7m",
+            "Earmarked reserves": "£9.0m",
+            "Total resource reserves": "£16.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2012": {
+            "General fund": "£8.9m",
+            "Earmarked reserves": "£11.7m",
+            "Total resource reserves": "£20.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2013": {
+            "General fund": "£4.3m",
+            "Earmarked reserves": "£19.3m",
+            "Total resource reserves": "£23.6m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2014": {
+            "General fund": "£3.2m",
+            "Earmarked reserves": "£21.5m",
+            "Total resource reserves": "£24.7m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2015": {
+            "General fund": "£3.1m",
+            "Earmarked reserves": "£20.7m",
+            "Total resource reserves": "£23.8m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2016": {
+            "General fund": "£2.6m",
+            "Earmarked reserves": "£19.6m",
+            "Total resource reserves": "£22.2m",
+            "Capital reserves": "£0.0m"
+        },
+        "Mar 2017": {
+            "General fund": "£2.6m",
+            "Earmarked reserves": "£17.1m",
+            "Total resource reserves": "£19.7m",
+            "Capital reserves": "£0.5m"
+        },
+        "Mar 2018": {
+            "General fund": "£2.7m",
+            "Earmarked reserves": "£15.6m",
+            "Total resource reserves": "£18.4m",
+            "Capital reserves": "£0.5m"
+        }
+    },
+    "Total England & Wales": {
+        "Mar 2011": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        },
+        "Mar 2012": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        },
+        "Mar 2013": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        },
+        "Mar 2014": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        },
+        "Mar 2015": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        },
+        "Mar 2016": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        },
+        "Mar 2017": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        },
+        "Mar 2018": {
+            "General fund": null,
+            "Earmarked reserves": null,
+            "Total resource reserves": null,
+            "Capital reserves": null
+        }
+    }
+}
