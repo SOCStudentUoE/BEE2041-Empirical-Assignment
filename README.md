@@ -3,6 +3,34 @@
 ## Description
 This project analyses the relationship between police force area financial reserves and performance outcomes using Jupyter Notebook and the Chrome WebDriver to scrape the latest performance data.
 
+## Project Directory Layout
+The project directory is organized as follows to ensure easy access and management of project components: 
+
+/root # Root folder of the project
+│
+├── /data # Data files used and produced by the project
+│ ├── /raw # Raw data, unchanged original source files
+│ ├── /processed # Cleaned and processed data
+│ └── /outputs # Graphs and output files generated from analyses
+│
+├── /docs # Documentation files and additional resources
+│
+├── /src # Source code for scripts and analysis
+│
+├── README.md # The top-level guide for this project
+├── requirements.txt # Python dependencies needed for the project
+└── .gitignore # Specifies intentionally untracked files to ignore
+
+### Explanation of Key Directories
+
+- **/data**: Contains all data files. `/raw` for unmodified data, `/processed` for cleaned data, and `/outputs` for results like charts.
+- **/docs**: Includes all markdown and static documentation related files that help in understanding the project.
+- **/src**: The main folder for all executable code, including Jupyter notebooks.
+
+Each directory is structured to support easy navigation and scalability of the project.
+
+
+
 ## Prerequisites
 - Python 3+
 - Jupyter Notebook
